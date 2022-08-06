@@ -1,8 +1,8 @@
 ### `Basic Of Searching, Shorting, Pagination in Table`
 
+Hello Everyone, we can implement searching. sorting, filterning & pagination feature with the help of JSON Server in our React App.
 
 
-In the project directory, you can run:
 
 ### `npm start`
 
